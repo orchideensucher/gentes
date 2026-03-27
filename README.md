@@ -1,1 +1,1 @@
-# github.io/gentes
+# github.io/gentes/gentes.html
